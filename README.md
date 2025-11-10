@@ -1,6 +1,6 @@
-# cmpe412-Simulation Project
+# CMPE412-Simulation Project
 
-A simple single-queue multi-server discrete-event simulator written in C++ for an educational CMPE412 assignment.
+A simple single-queue multi-server discrete-event simulator written in C++.
 
 This repository contains a compact simulation that models customer arrivals and service on multiple identical servers. Arrivals and service times are sampled from exponential distributions. The simulator runs in discrete 1-minute steps and produces a trace, an event schedule (CSV), and summary statistics.
 
@@ -13,7 +13,7 @@ This repository contains a compact simulation that models customer arrivals and 
 - `final_summary.txt` — Plain-text summary with key metrics.
 - `final_summary.csv` — CSV of summary statistics (two columns: key,value).
 
-## Quick overview of the simulator behavior
+## Overview of the simulator behavior
 
 - Time is discrete and counted in minutes from `0` to `sim_time` (inclusive).
 - Customer interarrival and service times are sampled from exponential distributions (rounded, minimum 1 minute).
@@ -62,4 +62,4 @@ This code is intentionally compact. Ideas for extension:
 - Minimum sampled time is clamped to 1 minute (`max(1, round(...))`) to avoid zero-length intervals.
 - Outputs are plain text and CSV for ease of parsing in Python, R, or Excel.
 
-# Created by Sarah Nauman and Afagh Izadi Dakhrabadi.
+## Created by Sarah Nauman and Afagh Izadi Dakhrabadi.
