@@ -1,0 +1,11 @@
+key,value
+completed,43
+arrivals,43
+avg_wait,0.418605
+avg_response,2.97674
+avg_service,2.55814
+avg_utilization,0.275
+server_0_util,0.345
+server_0_served,34
+server_1_util,0.205
+server_1_served,9

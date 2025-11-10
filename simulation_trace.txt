@@ -1,0 +1,132 @@
+Simulation start (2 servers, 200min, seed=3277195157)
+[3] ARRIVAL: customer 1
+[3] START: customer 1 -> server 0 (serv=4, wait=0)
+[6] ARRIVAL: customer 2
+[6] START: customer 2 -> server 1 (serv=2, wait=0)
+[7] DEPARTURE: customer 1 from server 0
+[8] DEPARTURE: customer 2 from server 1
+[15] ARRIVAL: customer 3
+[15] START: customer 3 -> server 0 (serv=1, wait=0)
+[16] ARRIVAL: customer 4
+[16] DEPARTURE: customer 3 from server 0
+[16] START: customer 4 -> server 0 (serv=1, wait=0)
+[17] ARRIVAL: customer 5
+[17] DEPARTURE: customer 4 from server 0
+[17] START: customer 5 -> server 0 (serv=1, wait=0)
+[18] DEPARTURE: customer 5 from server 0
+[28] ARRIVAL: customer 6
+[28] START: customer 6 -> server 0 (serv=1, wait=0)
+[29] DEPARTURE: customer 6 from server 0
+[39] ARRIVAL: customer 7
+[39] START: customer 7 -> server 0 (serv=1, wait=0)
+[40] DEPARTURE: customer 7 from server 0
+[42] ARRIVAL: customer 8
+[42] START: customer 8 -> server 0 (serv=1, wait=0)
+[43] DEPARTURE: customer 8 from server 0
+[61] ARRIVAL: customer 9
+[61] START: customer 9 -> server 0 (serv=2, wait=0)
+[62] ARRIVAL: customer 10
+[62] START: customer 10 -> server 1 (serv=1, wait=0)
+[63] DEPARTURE: customer 9 from server 0
+[63] DEPARTURE: customer 10 from server 1
+[65] ARRIVAL: customer 11
+[65] START: customer 11 -> server 0 (serv=5, wait=0)
+[67] ARRIVAL: customer 12
+[67] START: customer 12 -> server 1 (serv=10, wait=0)
+[68] ARRIVAL: customer 13
+[69] ARRIVAL: customer 14
+[70] ARRIVAL: customer 15
+[70] DEPARTURE: customer 11 from server 0
+[70] START: customer 13 -> server 0 (serv=1, wait=2)
+[71] DEPARTURE: customer 13 from server 0
+[71] START: customer 14 -> server 0 (serv=3, wait=2)
+[72] ARRIVAL: customer 16
+[74] DEPARTURE: customer 14 from server 0
+[74] START: customer 15 -> server 0 (serv=1, wait=4)
+[75] DEPARTURE: customer 15 from server 0
+[75] START: customer 16 -> server 0 (serv=1, wait=3)
+[76] DEPARTURE: customer 16 from server 0
+[77] DEPARTURE: customer 12 from server 1
+[80] ARRIVAL: customer 17
+[80] START: customer 17 -> server 0 (serv=3, wait=0)
+[83] DEPARTURE: customer 17 from server 0
+[85] ARRIVAL: customer 18
+[85] START: customer 18 -> server 0 (serv=3, wait=0)
+[86] ARRIVAL: customer 19
+[86] START: customer 19 -> server 1 (serv=6, wait=0)
+[88] DEPARTURE: customer 18 from server 0
+[92] DEPARTURE: customer 19 from server 1
+[94] ARRIVAL: customer 20
+[94] START: customer 20 -> server 0 (serv=1, wait=0)
+[95] DEPARTURE: customer 20 from server 0
+[98] ARRIVAL: customer 21
+[98] START: customer 21 -> server 0 (serv=1, wait=0)
+[99] DEPARTURE: customer 21 from server 0
+[109] ARRIVAL: customer 22
+[109] START: customer 22 -> server 0 (serv=4, wait=0)
+[113] DEPARTURE: customer 22 from server 0
+[115] ARRIVAL: customer 23
+[115] START: customer 23 -> server 0 (serv=5, wait=0)
+[116] ARRIVAL: customer 24
+[116] START: customer 24 -> server 1 (serv=4, wait=0)
+[120] DEPARTURE: customer 23 from server 0
+[120] DEPARTURE: customer 24 from server 1
+[123] ARRIVAL: customer 25
+[123] START: customer 25 -> server 0 (serv=1, wait=0)
+[124] DEPARTURE: customer 25 from server 0
+[126] ARRIVAL: customer 26
+[126] START: customer 26 -> server 0 (serv=1, wait=0)
+[127] DEPARTURE: customer 26 from server 0
+[130] ARRIVAL: customer 27
+[130] START: customer 27 -> server 0 (serv=1, wait=0)
+[131] DEPARTURE: customer 27 from server 0
+[132] ARRIVAL: customer 28
+[132] START: customer 28 -> server 0 (serv=2, wait=0)
+[134] DEPARTURE: customer 28 from server 0
+[143] ARRIVAL: customer 29
+[143] START: customer 29 -> server 0 (serv=3, wait=0)
+[144] ARRIVAL: customer 30
+[144] START: customer 30 -> server 1 (serv=4, wait=0)
+[146] DEPARTURE: customer 29 from server 0
+[148] DEPARTURE: customer 30 from server 1
+[151] ARRIVAL: customer 31
+[151] START: customer 31 -> server 0 (serv=1, wait=0)
+[152] DEPARTURE: customer 31 from server 0
+[155] ARRIVAL: customer 32
+[155] START: customer 32 -> server 0 (serv=2, wait=0)
+[157] DEPARTURE: customer 32 from server 0
+[173] ARRIVAL: customer 33
+[173] START: customer 33 -> server 0 (serv=1, wait=0)
+[174] ARRIVAL: customer 34
+[174] DEPARTURE: customer 33 from server 0
+[174] START: customer 34 -> server 0 (serv=1, wait=0)
+[175] ARRIVAL: customer 35
+[175] DEPARTURE: customer 34 from server 0
+[175] START: customer 35 -> server 0 (serv=1, wait=0)
+[176] DEPARTURE: customer 35 from server 0
+[178] ARRIVAL: customer 36
+[178] START: customer 36 -> server 0 (serv=6, wait=0)
+[179] ARRIVAL: customer 37
+[179] START: customer 37 -> server 1 (serv=10, wait=0)
+[181] ARRIVAL: customer 38
+[184] ARRIVAL: customer 39
+[184] DEPARTURE: customer 36 from server 0
+[184] START: customer 38 -> server 0 (serv=1, wait=3)
+[185] ARRIVAL: customer 40
+[185] DEPARTURE: customer 38 from server 0
+[185] START: customer 39 -> server 0 (serv=3, wait=1)
+[188] DEPARTURE: customer 39 from server 0
+[188] START: customer 40 -> server 0 (serv=4, wait=3)
+[189] ARRIVAL: customer 41
+[189] DEPARTURE: customer 37 from server 1
+[189] START: customer 41 -> server 1 (serv=1, wait=0)
+[190] ARRIVAL: customer 42
+[190] DEPARTURE: customer 41 from server 1
+[190] START: customer 42 -> server 1 (serv=3, wait=0)
+[192] DEPARTURE: customer 40 from server 0
+[193] DEPARTURE: customer 42 from server 1
+[199] ARRIVAL: customer 43
+[199] START: customer 43 -> server 0 (serv=1, wait=0)
+[200] DEPARTURE: customer 43 from server 0
+
+Simulation complete.

@@ -1,0 +1,11 @@
+Simulation Time: 200 minutes
+Servers: 2
+Arrivals: 43
+Completed: 43
+Average Waiting Time: 0.418605
+Average Service Time: 2.55814
+Average Response Time: 2.97674
+Average Server Utilization: 0.275
+
+Server 0: Util=0.345, Served=34
+Server 1: Util=0.205, Served=9
